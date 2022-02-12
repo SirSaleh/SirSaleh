@@ -11,7 +11,7 @@ I am **Saleh**, Full-Stack Web-Developer.
 - 💬 Ask me about web development
 - 📫 How to reach me: SirSaleh@protonmail.com
 - 😄 Pronouns: He, She, They (I don't care, lol)
-- ⚡ Fun fact: Currently nothing! (will updated :D)
+- ⚡ Fun fact: Currently nothing! (will be updated :D)
 
 <!--
 **SirSaleh/SirSaleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
