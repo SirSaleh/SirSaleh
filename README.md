@@ -9,7 +9,6 @@ I am **Saleh**, Full-Stack Web-Developer.
 - 👯 I’m looking to collaborate on many open source projects
 - 🤔 I’m looking for help with applicable projects, mostly web services
 - 💬 Ask me about web development
-- 📫 How to reach me: SirSaleh@protonmail.com
 - 😄 Pronouns: He, She, They (I don't care, lol)
 - ⚡ Fun fact: Currently nothing! (will be updated :D)
 
