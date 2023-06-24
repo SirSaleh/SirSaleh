@@ -5,9 +5,10 @@
 I am **Saleh**, Full-Stack Web-Developer.
 
 - 🔭 I’m currently working on my company's private projects
-- 🌱 I’m currently learning different protocols and etc..
-- 👯 I’m looking to collaborate on many open source projects
+- 🌱 I’m currently learning different protocols and etc...
+- 👯 I’m looking to collaborate on many open-source projects
 - 🤔 I’m looking for help with applicable projects, mostly web services
+- 📫 How to reach me: animatorsaleh@gmail.com
 - 💬 Ask me about web development
 - 😄 Pronouns: He, She, They (I don't care, lol)
 - ⚡ Fun fact: Currently nothing! (will be updated :D)
