@@ -5,6 +5,11 @@
 <img alt="StackOverflow"
 src="https://stackoverflow-badge.vercel.app/?userID=2454690" />
 </a>
+<a href="https://www.linkedin.com/in/saleh-salehizadeh/">
+<img alt="LinkedIn"
+src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+ 	
 
 I am **Saleh**, Full-Stack Web-Developer.
 
